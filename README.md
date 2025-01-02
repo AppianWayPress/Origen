@@ -11,7 +11,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 * Translated from: Origen, _Origenes Werke_. J. C. Hinrichs'sche Buchhandlung:Leipzig, 1899.
 * The source edition of _Contra Celsum_ was retrieved from the Github repository First1KGreek. 
-  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/) is available from the Github repo.
+  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg2042/tlg001/tlg2042.tlg001.perseus-grc1.xml) is available from the Github repo.
 * For more information: https://opengreekandlatin.github.io/First1KGreek/. 
 
 #### Files
