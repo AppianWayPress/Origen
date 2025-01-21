@@ -16,5 +16,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-ContraCelsus.pdf)
-* [ePub](epub/paperback-ContraCelsus.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/Origen/main/diglot/diglot-ContraCelsus.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/Origen/main/epub/epub-ContraCelsus.epub)
